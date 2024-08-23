@@ -8,10 +8,6 @@ This project involves predicting the likelihood of diabetes in individuals using
 - [Dataset](#dataset)
 - [Project Workflow](#project-workflow)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
